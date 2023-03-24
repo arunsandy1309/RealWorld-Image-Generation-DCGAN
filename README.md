@@ -4,7 +4,7 @@
 
 Please follow the below steps to download the CIFAR-10 data for training the GAN
  
-Step 1: Open the URL http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+Step 1: Open the URL http://www.cs.toronto.edu/~kriz/cifar.html
 
 Step 2: Extract the files and place them in the "data" folder
 ![image](https://user-images.githubusercontent.com/50144683/227525118-e440339f-03e5-4808-8bfa-4dae79f0f456.png)
