@@ -1,4 +1,4 @@
-# Creating Fake Images using GANs
+# Creating Fake Images using DCGAN
 *** Required Python version is 3.10 as PyTorch doesn't support 3.11 yet. ***
 
 
