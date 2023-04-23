@@ -25,3 +25,9 @@ Below is the fake image generated at 25th Epoch
 Real Sample image
 
 ![real_samples](https://user-images.githubusercontent.com/50144683/227528275-2fcda697-8d91-452f-b1db-53d03fea24ff.png)
+
+## Related Works
++ [Anime Character Generation using DCGAN in PyTorch](https://github.com/arunsandy1309/Anime-Character-Generation-DCGAN)
++ [Conditional GAN in PyTorch](https://github.com/arunsandy1309/Conditional-GAN-PyTorch)
++ [Vanilla GAN in PyTorch](https://github.com/arunsandy1309/Vanilla-GAN)
++ [CycleGAN in PyTorch](https://github.com/arunsandy1309/CycleGAN-PyTorch)
